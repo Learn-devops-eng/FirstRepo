@@ -25,3 +25,8 @@ def mymarks(mark):
 
     print("this is my marks ",mark)
 mymarks(int(input("enter marks ")))
+
+
+for i  in range(1,5):
+
+    print("this practice of get the file from remot to clone ")
