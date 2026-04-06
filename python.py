@@ -30,3 +30,5 @@ mymarks(int(input("enter marks ")))
 for i  in range(1,5):
 
     print("this practice of get the file from remot to clone ")
+
+print("god pls become happly from me pls i am vary week , your requirment is defficult for me to full filll them")
